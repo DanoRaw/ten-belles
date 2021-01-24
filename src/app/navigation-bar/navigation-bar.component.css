@@ -1,0 +1,37 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+
+
+img {
+    height: 1%;
+    width: 5%;
+}
+
+/* .navbar-nav mr-auto {
+    float: right;
+    width: 100%;
+}
+
+ul {
+    display: inline-flexbox;
+    padding: 0 10px;
+} */
+
+li {
+    white-space: nowrap;
+    font-family: "Albertus Medium";
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+
+.navbar-brand {
+    font-family: "Albertus Medium";
+
+    
+}
+
+.navbar-custom .navbar-brand, 
+.navbar-custom .navbar-text { 
+    background-color: black; 
+} 

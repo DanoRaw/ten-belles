@@ -1,0 +1,30 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+/* img {
+    height: 100%;
+     background-size: 100%;
+    background-size: cover;
+    width: auto;
+    /* background-image: url(../assets/images/bar_home.PNG); */
+body, html {
+    height: 100%;
+}
+
+/* .bg {
+    background-image: url("../assets/images/ten_bell.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 85%;
+} */
+
+.Site {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+.Site-Content {
+    flex: 1;
+}
+
